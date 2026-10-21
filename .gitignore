@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+dataset/*
+!dataset/.gitkeep
+models/*
+!models/.gitkeep
+attendance.csv
+last_seen.jpg
